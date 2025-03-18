@@ -1,0 +1,4 @@
+gtype~price
+tomato~40
+potato~30
+mango~25
