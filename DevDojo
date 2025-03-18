@@ -1,0 +1,13 @@
+The DevDojo GitHub organization hosts a variety of repositories aimed at helping developers create, learn, and grow. Here are some highlights:
+
+Wave: A Software as a Service (SaaS) Starter Kit designed to help you build your dream SaaS application.
+
+Voyager: A Laravel Admin package that simplifies building admin panels.
+
+Tails Components: A collection of hand-crafted templates and components built with TailwindCSS.
+
+Auth: A package for authentication in Laravel applications.
+
+Static: A static site generator tailored for blogs, SaaS landings, and personal sites.
+
+Pines: A UI library built with TailwindCSS and Alpine.js..
